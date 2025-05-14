@@ -22,22 +22,5 @@ public:
     ~Item();
 };
 
-class Fruit : public Item {
-private:
-
-public:
-
-};
-
-class Seasoning : public Item {
-private:
-
-public:
-
-};
-
-class Snack : public Item {
-    
-};
 
 #endif // ITEM
